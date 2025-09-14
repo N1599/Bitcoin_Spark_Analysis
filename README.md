@@ -8,7 +8,8 @@ Analyzed the data from coingecko api using apache spark and airflow dags . Gener
 
 **Features -** 
 
-\\- Apache Airflow DAGs for data processing
+
+\- Apache Airflow DAGs for data processing
 
 \- Spark for large-scale data analysis
 
