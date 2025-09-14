@@ -1,0 +1,5 @@
+papermill==2.6.0
+ipykernel==6.29.5
+matplotlib==3.9.2
+pyspark==3.5.1
+ansiwrap==0.8.4
