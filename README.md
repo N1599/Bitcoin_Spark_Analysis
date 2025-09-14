@@ -37,7 +37,7 @@ Analyzed the data from coingecko api using apache spark and airflow dags . Gener
 ```bash
 git clone https://github.com/N1599/Bitcoin_Spark_Analysis.git
 cd Bitcoin_Spark_Analysis
-
+```
 
 
 2\. **Build docker images** - docker compose build --no-cache
