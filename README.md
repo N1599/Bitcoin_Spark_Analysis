@@ -40,15 +40,25 @@ cd Bitcoin_Spark_Analysis
 ```
 
 
-2\. **Build docker images** - docker compose build --no-cache
+2\. **Build docker images** - 
+```bash
+docker compose build --no-cache
+```
 
 
 
-3\. **Start the containers** - docker compose up -d
+3\. **Start the containers** - 
+```bash
+docker compose up -d
+
+```
 
 
 
-4\. **Initialize Airflow DB (first run)** - docker compose exec airflow-webserver airflow db init
+4\. **Initialize Airflow DB (first run)** - 
+```bash
+docker compose exec airflow-webserver airflow db init
+```
 
 
 
