@@ -33,9 +33,10 @@ Analyzed the data from coingecko api using apache spark and airflow dags . Gener
 
 
 **Setup -** 
-1. **Clone the repository** - git clone https://github.com/N1599/Bitcoin\_Spark\_Analysis.git
-
-			      cd Bitcoin\_Spark\_Analysis
+1. **Clone the repository** - 
+```bash
+git clone https://github.com/N1599/Bitcoin_Spark_Analysis.git
+cd Bitcoin_Spark_Analysis
 
 
 
