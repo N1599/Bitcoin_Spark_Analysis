@@ -6,14 +6,11 @@ import papermill as pm
 
 
 default_args = {
-    "start_date" : datetime.now(),
-    "email": ["nikhilsharma1599@gmail.com"],
-    "email_on_failure": True,
-    "email_on_success": True
+    "start_date" : datetime.now()
 }
 
 def run_bitcoin_notebook():
-     input_path = "/opt/airflow/dags/Apache_Spark_Mini_Project.ipynb"
+     input_path = "/opt/airflow/dags/Bitcoin_Analysis.ipynb"
      output_path = "/opt/airflow/dags/Bitcoin_Analysis_output.ipynb"
 
      pm.execute_notebook(
