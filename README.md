@@ -8,7 +8,7 @@ Analyzed the data from coingecko api using apache spark and airflow dags . Gener
 
 **Features -** 
 
-- Apache Airflow DAGs for data processing
+\\- Apache Airflow DAGs for data processing
 
 \- Spark for large-scale data analysis
 
@@ -34,7 +34,7 @@ Analyzed the data from coingecko api using apache spark and airflow dags . Gener
 **Setup -** 
 1. **Clone the repository** - git clone https://github.com/N1599/Bitcoin\_Spark\_Analysis.git
 
-&nbsp;			      cd Bitcoin\_Spark\_Analysis
+			      cd Bitcoin\_Spark\_Analysis
 
 
 
