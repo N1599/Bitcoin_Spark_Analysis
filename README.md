@@ -1,13 +1,14 @@
 # Bitcoin\_Spark\_Analysis
 
-Analyzed the data from coingecko api using apache spark and airflow DAGS . Generated pdf for assessing bitcoin metrics.
+Analyzed the data from coingecko api using apache spark and airflow dags . Generated pdf for assessing bitcoin metrics.
 
 
 
 
 
 **Features -** 
-\- Apache Airflow DAGs for data processing
+
+- Apache Airflow DAGs for data processing
 
 \- Spark for large-scale data analysis
 
@@ -47,7 +48,7 @@ Analyzed the data from coingecko api using apache spark and airflow DAGS . Gener
 
 4\. **Initialize Airflow DB (first run)** - docker compose exec airflow-webserver airflow db init
 
-&nbsp;
+
 
 5\. **Access the Airflow UI** - Open http://localhost:8080 in your browser and start running the DAG.
 
